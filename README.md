@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello world, I'm Arão
 
-<!--
-**Freitas29/Freitas29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Programador front-end ✨
+> Mas também faço projetos em back-end 😊
 
-Here are some ideas to get you started:
+# Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudando VueJs,Elixir, React Native e cursando sistemas da informação
+💻 Trabalhando com VueJs
+🎬 Apaixonado por animes! Plusss ultraaa ✊ ✨
+🎧 Arctic monkeys e The strokes
+
+![](https://i.pinimg.com/originals/08/cf/a3/08cfa34b3408ca3b7c657bab1f07bed1.gif)
